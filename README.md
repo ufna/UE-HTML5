@@ -24,5 +24,5 @@ Also, I call this "tool" as a plugin. Basically it's not exactly a plugin, but i
 
 ### How to use
 
-Clone desired branch. Go to `Engine/Platforms/HTML5` and launch `HTML5Setup.sh` with **Git Bash**. Then work with UE as usual.
+Clone the desired branch. Go to `Engine/Platforms/HTML5` and launch `HTML5Setup.sh` with **Git Bash**. Then work with UE as usual.
 
