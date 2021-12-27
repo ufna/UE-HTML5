@@ -4,8 +4,6 @@ HTML5 platform support for Unreal Engine development tracker.
 
 Check [UE-HTML5 Project](https://github.com/users/ufna/projects/1/) for current development taskboard.
 
-![SCREENSHOT](Documentation/SCREENSHOT.jpg)
-
 ### Branches to mention
 
 * **[4.24-html5](https://github.com/ufna/UnrealEngine/tree/4.24-html5)** - UE 4.24.3 vanilla release with HTML5 platform updated to **emscripten 3.0.0**
@@ -24,6 +22,8 @@ Check [UE-HTML5 Project](https://github.com/users/ufna/projects/1/) for current 
 
 Also, I call this "tool" as a plugin. Basically it's not exactly a plugin, but it suits me.
 
+
+![SCREENSHOT](Documentation/SCREENSHOT.jpg)
 
 ### How to use
 
