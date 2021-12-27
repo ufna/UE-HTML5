@@ -17,7 +17,8 @@ Check [UE-HTML5 Project](https://github.com/users/ufna/projects/1/) for current 
 * Vanilla UE branches, all necessary engine code changes applied as runtime patch on setup stage.
 * Two parallel dev directions: 
   * Platform improvements: downloaded packages caching, multiple pak files, built-in DLC support, and other stuff to make it lightweight and rapidly launch.
-  * Engine upgrade: move to UE 4.27 first with WebGL2/OpenGLES3.1 support, then WebGPU is planned.
+  * Engine update: move to UE 4.27 first with WebGL2/OpenGLES3.1 support, then WebGPU research is planned.
+* UE5 support is not considered for now as it has lack of 32-bit support, and emscripten [hasn't 64-bit](https://github.com/emscripten-core/emscripten/issues/12087). Once UE5 will be released I'll check is it possible to create a some kind of frankenstein to mix them.
 
 Also, I call this "tool" as a plugin. Basically it's not exactly a plugin, but it suits me.
 
