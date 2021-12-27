@@ -12,7 +12,7 @@ Check [UE-HTML5 Project](https://github.com/users/ufna/projects/1/) for current 
 
 ### Core ideas
 
-* No multithreading. It's basically dead idea for the modern web, so no support will be provided until it's ressurection.
+* No multithreading. It's basically dead idea for the modern web, so no support will be provided until its ressurection.
 * Keep emscripten updated.
 * Vanilla UE branches, all necessary engine code changes applied as runtime patch on setup stage.
 * Two parallel dev directions: 
