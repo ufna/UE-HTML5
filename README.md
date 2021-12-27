@@ -4,7 +4,7 @@ HTML5 platform support for Unreal Engine development tracker.
 
 Check [UE-HTML5 Project](https://github.com/users/ufna/projects/1/) for current development taskboard.
 
-![SCREENSHOT](Documentaion/SCREENSHOT.jpg)
+![SCREENSHOT](Documentation/SCREENSHOT.jpg)
 
 ### Branches to mention
 
