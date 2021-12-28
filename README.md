@@ -27,5 +27,9 @@ Also, I call this "tool" as a plugin. Basically it's not exactly a plugin, but i
 
 ### How to use
 
-Clone the desired branch. Go to `Engine/Platforms/HTML5` and launch `HTML5Setup.sh` with **Git Bash**. Then work with UE as usual.
+1. Clone the desired branch (**[4.24-html5](https://github.com/ufna/UnrealEngine/tree/4.24-html5)**)
+2. Run `Setup.bat`
+3. Go to `Engine/Platforms/HTML5` and launch `HTML5Setup.sh` with **Git Bash**
+4. Run `GenerateProjectFiles.bat`
+5. Build the engine and work as usual, but now with HTML5 platform enabled.
 
