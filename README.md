@@ -13,6 +13,7 @@ Check [UE-HTML5 Project](https://github.com/users/ufna/projects/1/) for current 
 
 * Windows
 * Linux (Ubuntu 20.04 LTS tested; python3 is required)
+* Mac (macOS Monterey tested, XCode 13; be sure to [disable legacy build system usage warnings](https://gyazo.com/eb7bd9a36930af8f5598c10f36eb7b9f))
 
 ### Core ideas
 
