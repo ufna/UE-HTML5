@@ -31,7 +31,16 @@ Also, I call this "tool" as a plugin. Basically it's not exactly a plugin, but i
 
 ![SCREENSHOT](Documentation/SCREENSHOT.jpg)
 
-### How to use
+## How to use
+
+### Build requirements
+
+This should be installed and available via PATH before running `HTML5Setup.sh`
+
+* cmake
+* Python 3.x
+
+### Step-by-step
 
 1. Clone the desired branch (**[4.24-html5](https://github.com/ufna/UnrealEngine/tree/4.24-html5)**)
 2. Run `Setup.bat`
