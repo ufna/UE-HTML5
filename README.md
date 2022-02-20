@@ -6,7 +6,7 @@ Check the **[UE-HTML5 Project](https://github.com/users/ufna/projects/1/)** for 
 
 ### Branches to mention
 
-* **[4.24-html5](https://github.com/ufna/UnrealEngine/tree/4.24-html5)** - UE 4.24.3 vanilla release with HTML5 platform updated to **emscripten 3.0.0**
+* **[4.24-html5](https://github.com/ufna/UnrealEngine/tree/4.24-html5)** - UE 4.24.3 vanilla release with HTML5 platform updated to [emscripten 3.1.2](https://github.com/emscripten-core/emscripten/releases/tag/3.1.4)
 * **[4.24-html5_epic](https://github.com/ufna/UnrealEngine/tree/4.24-html5_epic)** - _deprecated_ branch based on [original Epic's development](https://github.com/UnrealEngineHTML5/Documentation)
 * **[4.27-html5_dev](https://github.com/ufna/UnrealEngine/tree/4.27-html5_dev)** - a **DEV** branch with experiments around UE 4.27
 
